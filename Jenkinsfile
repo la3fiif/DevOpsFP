@@ -3,7 +3,7 @@ pipeline {
     environment {
         CONTAINER_ID = ''
         SUM_PY_PATH = '/home/la3fiif/Documents/FinalProjectDevOps/sum.py'
-        DIR_PATH = '/home/la3fiif/Documents/FinalProjectDevOps'
+        DIR_PATH = '/home/la3fiif/JenkinsTestFP'
         TEST_FILE_PATH = '/home/la3fiif/Documents/FinalProjectDevOps/test_variables.txt'
         
         IMAGE_NAME = "sum-app"
