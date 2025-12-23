@@ -91,6 +91,7 @@ stage('Deploy') {
 }
 }
 }
+}
 
 post {
     always {
@@ -102,4 +103,4 @@ post {
 
 
 }
-}
+
